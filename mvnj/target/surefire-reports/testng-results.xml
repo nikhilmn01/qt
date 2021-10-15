@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51511" started-at="2021-10-15T18:47:56 IST" finished-at="2021-10-15T18:48:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51511" started-at="2021-10-15T18:47:56 IST" finished-at="2021-10-15T18:48:47 IST">
+      <class name="mvntst.mvnj.qchTest">
+        <test-method status="PASS" signature="enter()[pri:0, instance:mvntst.mvnj.qchTest@3e9b1010]" name="enter" duration-ms="51483" started-at="2021-10-15T18:47:56 IST" finished-at="2021-10-15T18:48:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter -->
+      </class> <!-- mvntst.mvnj.qchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
